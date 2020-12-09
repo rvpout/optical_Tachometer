@@ -1,5 +1,5 @@
 # Optical Tachometer with LCD-display
-ATMega 4809-based optical tachometer. Uses LED and PHOTORESISTOR to detect a plastic blade thats ran by 5.5V from
+ATMega 4809-based optical tachometer. Uses LED and PHOTORESISTOR to detect a plastic blade that's ran by 5.5V from
 the board. Counts rounds per minute of the blade and displays it on 16x2 LCD screen which is connected to board.
 Board information:
 https://www.microchip.com/DevelopmentTools/ProductDetails/DM320115
