@@ -17,3 +17,4 @@ Samuel Kivi.
  ## Acknowledgments
 
 * []() [Jani Tammi](https://github.com/jasata) will grade the project
+grade: 74% / 100%
